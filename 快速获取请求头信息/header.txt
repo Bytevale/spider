@@ -1,0 +1,42 @@
+client: 4
+version: 7119.2
+channel: oppo
+act-code: 1722597234
+act-timestamp: 1722597234
+pset: 1
+pseudo-id: 37152511
+device: ASUS_I003DD
+brand: Asus
+sdk: 28,9
+resolution: 1280*720
+dpi: 1.5
+timezone: 28800
+language: zh
+cns: 0
+imsi: 460002511292347
+uuid: 0979ad8b-7541-4c23-b0ed-cafb76eb4157
+User-Agent: Mozilla/5.0 (Linux; Android 9; ASUS_I003DD Build/PI; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36
+battery-level: -21474836.00
+battery-state: 2
+caid: 37152511
+ssid: dntv088780
+bssid: 02:00:00:00:01:00
+display-resolution: 1280*720
+scale: 1.5
+reach: 1
+syscmp-time: 1653459332000
+countrycode: CN
+sysmemory: 6240288768
+sysdisksize: 34.53 GB
+is-hmos: false
+terms-accepted: 1
+newbie: 1
+bootmark: 9cb87c5f-551d-4858-9016-bab3e52914a3
+updatemark: 1722632008.928000000
+app-state: 0
+Content-Type: application/x-www-form-urlencoded; charset=utf-8
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+session-info: 2xYI6jJrUUpTqkrDRjKtjGvz+iUQq805TCdHNbBK7AsfZZS8QPuxBTAOA0EMs7scG0CQQJqVipn6f0lEWHwjRWOfZGGQULQ0n2L539hJtIw8b7jLQ2RiJ0JrEwDCYNWc
+Host: api.douguo.net
+Content-Length: 177
